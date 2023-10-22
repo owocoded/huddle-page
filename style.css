@@ -27,20 +27,20 @@ body{
   font-size: 40px;
   font-weight: 700;
 }
-.section .sign-up {
+.sign-up {
   display: flex;
   background-color: none;
   border: 1px solid;
   gap: 20px;
-  width: 14%;
+  width: 25%;
   margin: 30px;
   border-radius: 10px;
   padding: 10px;
 }
-.section .sign-up img{
-  width: 10%;
+.sign-up img{
+  width: 20%;
 }
-.section .sign-up button{
+.sign-up button{
   background-color: transparent;
   border: none;
   font-family: 'Inter';
@@ -88,7 +88,7 @@ body{
 .confirm{
   color: hsla(0, 0%, 13%, 1);
   font-family: 'Inter';
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 400;
   line-height: 36px;
   letter-spacing: 0.5px;
@@ -111,4 +111,5 @@ body{
   border-radius: 10px;
   margin: 20px 0px;
   width: 100%;
+  border: none;
 }
