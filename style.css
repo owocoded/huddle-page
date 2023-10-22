@@ -27,20 +27,20 @@ body{
   font-size: 40px;
   font-weight: 700;
 }
-.sign-up {
+.section .sign-up {
   display: flex;
   background-color: none;
   border: 1px solid;
   gap: 20px;
-  width: 70%;
-  margin: 30px;
+  width: 50%;
+  margin: 20px;
   border-radius: 10px;
   padding: 10px;
 }
-.sign-up img{
-  width: 15%;
+.section .sign-up img{
+  width: 10%;
 }
-.sign-up button{
+.section .sign-up button{
   background-color: transparent;
   border: none;
   font-family: 'Inter';
@@ -111,5 +111,4 @@ body{
   border-radius: 10px;
   margin: 20px 0px;
   width: 100%;
-  border: none;
 }
